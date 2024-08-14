@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Praise
 - 👀 I’m an innovative individual interested in coding and computer science
-- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on projects and hackathons
 - 📫 How to reach me:
   email: oluwaseunolaiya23@gmail.com
